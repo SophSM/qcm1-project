@@ -1,0 +1,14 @@
+# Competition data: licence (CC BY-NC-SA 4.0) and competition rules forbid sharing it
+data/
+# Trained weights (large; trained on the competition data)
+models/
+*.pt
+# Run outputs: caches, predicted masks, submissions, logs
+outputs/
+# Slides: the Slidesgo template is not redistributed; previews are generated
+slides/style_template.pptx
+slides/prev/
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
