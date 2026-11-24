@@ -1,0 +1,13 @@
+# Python 3.11. PyTorch CUDA 12.1 build (install with --index-url https://download.pytorch.org/whl/cu121)
+torch==2.5.1
+torchvision==0.20.1
+segmentation_models_pytorch==0.6.0
+timm==1.0.31
+albumentations==2.0.8
+opencv-python-headless==5.0.0.93
+scikit-image==0.26.0
+scipy==1.17.1
+numpy==2.4.6
+pandas==3.1.1
+pillow==13.0.0
+matplotlib==3.11.2
